@@ -1,0 +1,99 @@
+2024-04-23 14:43:54,853 - INFO - ====== WebDriver manager ======
+2024-04-23 14:43:56,369 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:43:57,370 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:43:58,342 - INFO - Driver [C:\Users\HP Harry\.wdm\drivers\chromedriver\win64\124.0.6367.60\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-23 14:44:04,502 - ERROR - An error occurred with https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NDY1MjE=: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0109B133+46099]
+	(No symbol) [0x0102C461]
+	(No symbol) [0x00F20C57]
+	(No symbol) [0x00F25D98]
+	(No symbol) [0x00F278A2]
+	(No symbol) [0x00F27920]
+	(No symbol) [0x00F5C141]
+	(No symbol) [0x00F80FFC]
+	(No symbol) [0x00F57075]
+	(No symbol) [0x00F81294]
+	(No symbol) [0x00F99E15]
+	(No symbol) [0x00F80D96]
+	(No symbol) [0x00F5595D]
+	(No symbol) [0x00F5651D]
+	GetHandleVerifier [0x01354BA3+2903683]
+	GetHandleVerifier [0x0139261B+3156219]
+	GetHandleVerifier [0x0113552B+677899]
+	GetHandleVerifier [0x0113B6FC+702940]
+	(No symbol) [0x01035A24]
+	(No symbol) [0x01031A68]
+	(No symbol) [0x01031BFC]
+	(No symbol) [0x01024750]
+	BaseThreadInitThunk [0x772D7BA9+25]
+	RtlInitializeExceptionChain [0x77CFBE3B+107]
+	RtlClearBits [0x77CFBDBF+191]
+
+2024-04-23 14:44:27,543 - INFO - ====== WebDriver manager ======
+2024-04-23 14:44:28,950 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:44:29,968 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:44:34,977 - INFO - Driver [C:\Users\HP Harry\.wdm\drivers\chromedriver\win64\124.0.6367.60\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-23 14:44:42,367 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NDY1MjE=: Andrew Wood, Senior Manager Learning Optimisation, Lloyds Banking Group
+2024-04-23 14:44:48,234 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NDgyMTY=: , , 
+2024-04-23 14:44:53,584 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3Njk4NzA=: , , 
+2024-04-23 14:45:00,310 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NzIwNDQ=: , , 
+2024-04-23 14:45:08,556 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3ODE5NTQ=: , , 
+2024-04-23 14:45:13,577 - ERROR - An error occurred with https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3OTQ5NzM=: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.61)
+Stacktrace:
+	GetHandleVerifier [0x0109B133+46099]
+	(No symbol) [0x0102C461]
+	(No symbol) [0x00F20C57]
+	(No symbol) [0x00EFE27B]
+	(No symbol) [0x00F8768E]
+	(No symbol) [0x00F996F6]
+	(No symbol) [0x00F80D96]
+	(No symbol) [0x00F5595D]
+	(No symbol) [0x00F5651D]
+	GetHandleVerifier [0x01354BA3+2903683]
+	GetHandleVerifier [0x0139261B+3156219]
+	GetHandleVerifier [0x0113552B+677899]
+	GetHandleVerifier [0x0113B6FC+702940]
+	(No symbol) [0x01035A24]
+	(No symbol) [0x01031A68]
+	(No symbol) [0x01031BFC]
+	(No symbol) [0x01024750]
+	BaseThreadInitThunk [0x772D7BA9+25]
+	RtlInitializeExceptionChain [0x77CFBE3B+107]
+	RtlClearBits [0x77CFBDBF+191]
+
+2024-04-23 14:46:46,465 - INFO - ====== WebDriver manager ======
+2024-04-23 14:46:47,950 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:46:48,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-04-23 14:46:49,955 - INFO - Driver [C:\Users\HP Harry\.wdm\drivers\chromedriver\win64\124.0.6367.60\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-23 14:46:56,822 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NDY1MjE=: , , 
+2024-04-23 14:47:07,844 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NDgyMTY=: , , 
+2024-04-23 14:47:19,103 - INFO - Successfully wrote data for https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3Njk4NzA=: , , 
+2024-04-23 14:47:31,279 - ERROR - An error occurred with https://learningtechnologies.app.swapcard.com/event/learning-and-hr-technologies-uk-2024/person/RXZlbnRQZW9wbGVfMjk3NzIwNDQ=: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.61)
+Stacktrace:
+	GetHandleVerifier [0x0109B133+46099]
+	(No symbol) [0x0102C461]
+	(No symbol) [0x00F20C57]
+	(No symbol) [0x00EFE27B]
+	(No symbol) [0x00F8768E]
+	(No symbol) [0x00F996F6]
+	(No symbol) [0x00F80D96]
+	(No symbol) [0x00F5595D]
+	(No symbol) [0x00F5651D]
+	GetHandleVerifier [0x01354BA3+2903683]
+	GetHandleVerifier [0x0139261B+3156219]
+	GetHandleVerifier [0x0113552B+677899]
+	GetHandleVerifier [0x0113B6FC+702940]
+	(No symbol) [0x01035A24]
+	(No symbol) [0x01031A68]
+	(No symbol) [0x01031BFC]
+	(No symbol) [0x01024750]
+	BaseThreadInitThunk [0x772D7BA9+25]
+	RtlInitializeExceptionChain [0x77CFBE3B+107]
+	RtlClearBits [0x77CFBDBF+191]
+
