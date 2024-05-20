@@ -8,7 +8,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 import time
-import json
 import csv
 import random
 
@@ -23,9 +22,12 @@ options.add_argument("--disable-cache")  # Disable browser caching
 # Create a new instance of the Chrome driver with your user data directory
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# Read the links from the Links.json file
-with open('Links.json', 'r') as f:
-    links = json.load(f)
+# Read the links from the CSV file
+with open('input.csv', 'r') as csvfile:
+    reader = csv.reader(csvfile)
+    links = []
+    for row in reader:
+        links.extend(row)
 
 # Create a CSV file and a writer object
 with open('output.csv', 'w', newline='', encoding='utf-8') as csvfile:
